@@ -2,7 +2,7 @@
 
 This is the **VHDL code** for the Mealy FSM (AND-OR switch).  
 It is part of the main task available here:  
-[`memory-proteus-projects/Mealy_AND_OR_FSM`](https://github.com/mennareda84/memory-proteus-projects/Mealy_AND_OR_FSM)
+[`memory-proteus-projects/Mealy_AND_OR_FSM`](https://github.com/mennareda84/memory-proteus-projects/tree/main/Mealy_AND_OR_FSM)
 
 ## Description
 - Implements the Mealy FSM using VHDL.
